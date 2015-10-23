@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="path">#ffff00</color>
+    <color name="passable">#ffffff</color>
+    <color name="blocked">#000000</color>
+    <color name="start">#ff0000</color>
+    <color name="end">#00ff00</color>
+    <color name="checkpoint">#0000ff</color>
+
+</resources>
